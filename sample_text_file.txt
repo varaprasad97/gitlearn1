@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+You can use it to test file handling in Python or other languages.
+End of file.
